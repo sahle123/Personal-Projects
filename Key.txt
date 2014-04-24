@@ -1,0 +1,3 @@
+Any folder with the _inc extension means "Incomplete"
+
+Otherwise, it can be assumed that it is fully complete.

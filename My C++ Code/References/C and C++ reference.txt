@@ -1,0 +1,16 @@
+/*
+*
+*	Quick reference for all I learn in C and C++
+*		Apr. 15th, 2014
+*
+*	May expand to other languages or create a whole new text file.
+*
+*	Updated: Apr. 15th, 2014	
+*
+*/
+
+//---- C ----//
+foo->bar == (*foo).bar // Gets the member called "bar" from the struct foo points to.
+
+//---- C++ --//
+std::cin.get() // Useful for simulating "Press enter to continue..." functionality.

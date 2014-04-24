@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ClearScreen.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="ClearScreen_implementation.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Mastermind_class.h" open="0" top="0" tabpos="5">
+		<Cursor position="1096" topLine="14" />
+	</File>
+	<File name="Mastermind_implementation.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="451" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5236" topLine="168" />
+	</File>
+	<File name="nomad_array.h" open="0" top="0" tabpos="4">
+		<Cursor position="292" topLine="2" />
+	</File>
+	<File name="nomad_stack.h" open="0" top="0" tabpos="0">
+		<Cursor position="1211" topLine="25" />
+	</File>
+	<File name="peg_class.h" open="0" top="0" tabpos="4">
+		<Cursor position="205" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

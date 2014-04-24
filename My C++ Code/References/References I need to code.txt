@@ -1,0 +1,5 @@
+- Initialization lists
+- C++11 moves
+- Lambda expressions
+- Smart pointers
+- T&& (double references in C++11)
